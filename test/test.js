@@ -1,5 +1,5 @@
 import test from 'ava'
-import quadraticRoots from './'
+import quadraticRoots from '../lib'
 
 test(t => {
   t.deepEqual(quadraticRoots(1, 0, -1), [1, -1])
