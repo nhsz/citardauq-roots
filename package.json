@@ -1,0 +1,29 @@
+{
+  "name": "citardauq-roots",
+  "version": "0.0.1",
+  "description": "Numerically stable method for solving quadratic equations",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/citardauq-roots.git"
+  },
+  "keywords": [
+    "quadratic",
+    "roots",
+    "polynomial",
+    "math"
+  ],
+  "author": "Nicolás Quiroz <nh.quiroz@gmail.com> (nicolasquiroz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/citardauq-roots/issues"
+  },
+  "homepage": "https://github.com/nhsz/citardauq-roots#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
