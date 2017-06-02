@@ -1,6 +1,6 @@
 # citardauq-roots
 
-> Numerically stable method for solving **[`quadratic equations`](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)**
+> Numerically stable method for solving **[`quadratic equations`](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)**  
 > **Note:** 'citardauq' is 'quadratic', reversed
 
 ## Install
