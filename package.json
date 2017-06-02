@@ -17,7 +17,11 @@
     "polynomial",
     "math"
   ],
-  "author": "Nicolás Quiroz <nh.quiroz@gmail.com> (nicolasquiroz.com)",
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nhsz/citardauq-roots/issues"
