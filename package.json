@@ -1,6 +1,6 @@
 {
   "name": "citardauq-roots",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Numerically stable method for solving quadratic equations",
   "main": "index.js",
   "scripts": {
