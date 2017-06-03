@@ -1,6 +1,6 @@
 # citardauq-roots
 
-[![NPM](https://nodei.co/npm/citardauq-roots.png)](https://nodei.co/npm/citardauq-roots/)
+[![NPM](https://nodei.co/npm/citardauq-roots.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/citardauq-roots/)
 
 > Numerically stable method for solving **[`quadratic equations`](https://people.csail.mit.edu/bkph/articles/Quadratics.pdf)**  
 > **Note:** 'citardauq' is 'quadratic', reversed
